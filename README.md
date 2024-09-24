@@ -1,6 +1,7 @@
 # Hello 👋 
 ## My name is Lucinda, I'm a mathematics undergraduate at Imperial College London, and here are some of the projects I have worked on:
 
+- [Thinning Spatial Point Processes for Confidence Interval Formation (Masters Dissertation)](https://github.com/l-khali/M4R-Thinned-Spatial-Point-Processes-for-Confidence-Interval-Formation)
 - [Transitions in intensive care: Investigating critical slowing down post extubation (UROP)](https://github.com/l-khali/In2Research)
 - [Citadel's European Regional Datathon](https://github.com/l-khali/europe_regional_datathon_fall_2021)
 - [Google Code Sample](https://github.com/l-khali/google-code-sample/tree/main/python/src)
